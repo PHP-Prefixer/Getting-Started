@@ -1,0 +1,17 @@
+{
+    "name": "php-prefixer/getting-started",
+    "description": "Documentation for the PHP-Prefixer service",
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    },
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "extra": {
+        "php-prefixer": {
+            "projectName": "PHP-Prefixer Getting Started",
+            "prefixForNamespaces": "PPP",
+            "prefixForGlobalObjects": "PPP_"
+        }
+    }
+}

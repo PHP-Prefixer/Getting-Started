@@ -35,3 +35,7 @@ The test writes a file `app.log` with the following output:
 ## License
 
 MIT License
+
+## Copyright
+
+Copyright (c) 2020 Desarrollos Inteligentes Virtuales, SL

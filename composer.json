@@ -9,9 +9,9 @@
     },
     "extra": {
         "php-prefixer": {
-            "projectName": "PHP-Prefixer Getting Started",
-            "prefixForNamespaces": "PPP",
-            "prefixForGlobalObjects": "PPP_"
+            "project-name": "PHP-Prefixer Getting Started",
+            "namespaces-prefix": "PPP",
+            "global-scope-prefix": "PPP_"
         }
     }
 }

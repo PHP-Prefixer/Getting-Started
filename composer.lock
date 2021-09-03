@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1171cbd1e3bf7b2b2c0315619c4e22bd",
+    "content-hash": "548433f02b4e6a8de1f31a0bbc0b8f82",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -47,6 +47,10 @@
                 "log",
                 "logging"
             ],
+            "support": {
+                "issues": "https://github.com/Seldaek/monolog/issues",
+                "source": "https://github.com/Seldaek/monolog/tree/1.0.2"
+            },
             "time": "2011-10-24T09:39:02+00:00"
         }
     ],
@@ -58,5 +62,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.0.0"
 }
